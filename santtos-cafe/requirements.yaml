@@ -1,0 +1,17 @@
+packages:
+  "three": "Required for 3D elements"
+  "@types/three": "TypeScript definitions for Three.js"
+  "@react-three/fiber": "React renderer for Three.js"
+  "@react-three/drei": "Useful helpers for Three.js"
+  "framer-motion": "Page transitions and scroll-triggered animations"
+  "clsx": "Utility for constructing conditional classNames"
+  "tailwind-merge": "Utility for merging tailwind classes"
+
+images:
+  - path: "artifacts/santtos-cafe/public/images/cafe-bg.png"
+    description: "A dark, moody, and warm luxury cafe interior with glowing amber lights, soft bokeh, very cinematic"
+    aspect_ratio: "16:9"
+
+notes:
+  - Pure frontend application with rich 3D and animation elements.
+  - No backend API integration required.
